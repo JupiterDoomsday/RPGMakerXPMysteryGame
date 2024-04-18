@@ -1,0 +1,38 @@
+
+{	"phaseCount": 2, "phases":
+	[
+		{
+			"statementCount":2, 
+			"statements": 
+			[
+				{
+					"text":"Well, Mr. SayeDeen emailed me. He saw my website and thought to hire me",
+				},
+	 			{
+	 			"doubt": true,
+	 			"text": "He told me I was the nearest Archivist in proximity to the retreat. It made sense.",
+	 			"appendingNode": 
+	 			{
+	 				"doubt": true,
+	 				"text": "Immediate access to my tools and materials. If in incident happened or I forgot materials I could go to my office",
+	 				"appendingNode": { "text": "My office is a 30 minutes drive from here"}
+	 			}
+	 		},
+	 		]
+		},
+		{
+			"statementCount":0, 
+			"statements":
+			[
+				{
+					"text":"I could leave to my place and then return, but I'm trapped here like everyone else",
+				},
+				{
+					"text":" I don't know this place",
+				}
+			] 
+		}
+	]
+
+}
+	
